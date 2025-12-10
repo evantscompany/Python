@@ -1,0 +1,28 @@
+{
+    "somang": {
+        "password": "0000",
+        "todos": [
+            {
+                "title": "game",
+                "priority": "high",
+                "deadline": "19900110",
+                "category": "game",
+                "completed": true
+            },
+            {
+                "title": "video",
+                "priority": "normal",
+                "deadline": "19900111",
+                "category": "video",
+                "completed": true
+            },
+            {
+                "title": "laundry",
+                "priority": "low",
+                "deadline": null,
+                "category": "",
+                "completed": true
+            }
+        ]
+    }
+}

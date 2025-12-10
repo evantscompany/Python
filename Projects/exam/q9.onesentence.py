@@ -1,0 +1,1 @@
+import csv;[print(f"{k} --- [평균:{sum(v)/len(v)}] [최고:{max(v)}] [최저:{min(v)}]") for k,v in {k: [int(r[i+1]) for r in list(csv.reader(open('files/scores.csv',encoding='utf-8')))[1:]] for i,k in enumerate(['국어','영어','수학'])}.items()]

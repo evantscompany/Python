@@ -1,0 +1,18 @@
+/* 요소이름을 선택하여 스타일을 적용 */
+
+h2{background-color: yellow;}
+
+p{color: blue;}
+
+/* 아이디가 p1인 요소를 선택하여 스타일을 적용. 아이디를 찾을때는 # */
+#p1{color: red;}
+
+/* 클래스가 aa 인 요소들을 선택하여 스타일을 적용. 클래스를 찾을때는 . <-점 찍기*/
+
+.aa{font-style: italic;}
+
+/* 이미지의 너비를 작게 조절 ( 높이는 이미지의 비율에 맞게 같이 조절됨 */
+img{width: 300px;display: block; margin-bottom: 20px;}
+
+
+
